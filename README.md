@@ -122,21 +122,6 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-### 📡 Görev İstatistikleri
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muyubu1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0630&title_color=00e5ff&icon_color=c77dff&text_color=d9ccff&ring_color=00e5ff" alt="GitHub istatistikleri"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muyubu1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0630&title_color=00e5ff&text_color=d9ccff" alt="En çok kullanılan diller"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muyubu1&theme=tokyonight&hide_border=true&background=0b0630&ring=00e5ff&fire=ff4d8d&currStreakLabel=c77dff" alt="Commit serisi"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muyubu1&bg_color=0b0630&color=00e5ff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff7&hide_border=true" alt="Aktivite grafiği" width="100%"/>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ### 📬 İletişim Frekansı
 
 <div align="center">

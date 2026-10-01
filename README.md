@@ -122,6 +122,16 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+### 🌌 Teknoloji Güneş Sistemi
+
+<div align="center">
+
+<img src="assets/orbit.svg" alt="Teknoloji güneş sistemi" width="100%"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
 ### 📬 İletişim Frekansı
 
 <div align="center">
